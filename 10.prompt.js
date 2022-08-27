@@ -8,3 +8,7 @@ var name = prompt("Adınızı Giriniz :");
 //prompt ile girilen her değer string ifadedir.
 //console.log(typeof name);
 
+var x = 5;
+var sayi = Number(x) + 1;
+console.log(sayi);
+//5 bir string değerken Number() ifadesi ile number bir değer yaptık.
