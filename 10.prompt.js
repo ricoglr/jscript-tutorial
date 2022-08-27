@@ -11,4 +11,4 @@ var name = prompt("Adınızı Giriniz :");
 var x = 5;
 var sayi = Number(x) + 1;
 console.log(sayi);
-//5 bir string değerken Number() ifadesi ile number bir değer yaptık.
+//5 bir string değerken Number() ifadesi ile number bir değer yaptık. 
